@@ -1,261 +1,257 @@
 {
-	"name":"Ritesh Kumar",
-	"designation":"Software Enginner 1",
-	"aboutme":"I have completed my one year internship in Bangalore based startup \"LeadSquared\" in ASP.NET and other web based technologies such as Jquery and JavaScript. As a software developer intern I have learnt the enterprise level coding standards, test case generations and problem solving approach. I have also worked on MySQL db, ASP.NET MVC and other technologies described under skills section. As Fresher developer I am seeking an opportunity where I can enhance my skills and use the enhanced skills to solve some interesting real life problems. It is the humongous amount of learning which motivates me and pushes me to perform beyond the limits.",
-	"education":{
-		"graduation":{
-			"university_name":"Lovely Professional University",
-			"startDate":{
-				"month":8,
-				"day":8,
-				"year":2016
+	"name": "Ritesh Kumar",
+	"designation": "Software Enginner 1",
+	"aboutme": "I have completed my one year internship in Bangalore based startup \"LeadSquared\" in ASP.NET and other web based technologies such as Jquery and JavaScript. As a software developer intern I have learnt the enterprise level coding standards, test case generations and problem solving approach. I have also worked on MySQL db, ASP.NET MVC and other technologies described under skills section. As Fresher developer I am seeking an opportunity where I can enhance my skills and use the enhanced skills to solve some interesting real life problems. It is the humongous amount of learning which motivates me and pushes me to perform beyond the limits.",
+	"education": {
+		"graduation": {
+			"university_name": "Lovely Professional University",
+			"startDate": {
+				"month": 8,
+				"day": 8,
+				"year": 2016
 			},
-			"endDate":{
-				"month":8,
-				"day":8,
-				"year":2020
+			"endDate": {
+				"month": 8,
+				"day": 8,
+				"year": 2020
 			},
-			"marks":"8.78",
-			"marks-type":"CGPA",
-			"marks-total":10,
-			"program_abrev":"B.tech CSE",
-			"program_fullForm":"Bachlar's in Technology",
-			"course":"Computer Science and Enginnering",
-			"affliation":"UGC",
-			"place":{
-				"dist":"Jalandhar",
-				"state":"Punjab",
-				"country":"India",
-				"zip-code":""
+			"marks": "8.78",
+			"marks-type": "CGPA",
+			"marks-total": 10,
+			"program_abrev": "B.tech CSE",
+			"program_fullForm": "Bachlar's in Technology",
+			"course": "Computer Science and Enginnering",
+			"affliation": "UGC",
+			"place": {
+				"dist": "Jalandhar",
+				"state": "Punjab",
+				"country": "India",
+				"zip-code": ""
 			}
 		},
 
-		"class_12":{
-			"university_name":"Sant Atulanand Convent School",
-			"startDate":{
-				"month":3,
-				"day":1,
-				"year":2014
+		"class_12": {
+			"university_name": "Sant Atulanand Convent School",
+			"startDate": {
+				"month": 3,
+				"day": 1,
+				"year": 2014
 			},
-			"endDate":{
-				"month":8,
-				"day":8,
-				"year":2015
+			"endDate": {
+				"month": 8,
+				"day": 8,
+				"year": 2015
 			},
-			"marks":87,
-			"marks-type":"Percentage",
-			"marks-total":100,
-			"program_abrev":"XII",
-			"program_fullForm":"Class 12",
-			"course":"PCM",
-			"affliation":"CBSE",
-			"place":{
-				"dist":"Varanasi",
-				"state":"Uttar Pradesh",
-				"country":"India",
-				"zip-code":""
+			"marks": 87,
+			"marks-type": "Percentage",
+			"marks-total": 100,
+			"program_abrev": "XII",
+			"program_fullForm": "Class 12",
+			"course": "PCM",
+			"affliation": "CBSE",
+			"place": {
+				"dist": "Varanasi",
+				"state": "Uttar Pradesh",
+				"country": "India",
+				"zip-code": ""
 			}
 		},
 
-		"class_10":{
-			"university_name":"Sant Atulanand Convent School",
-			"startDate":{
-				"month":3,
-				"day":1,
-				"year":2012
+		"class_10": {
+			"university_name": "Sant Atulanand Convent School",
+			"startDate": {
+				"month": 3,
+				"day": 1,
+				"year": 2012
 			},
-			"endDate":{
-				"month":8,
-				"day":8,
-				"year":2013
+			"endDate": {
+				"month": 8,
+				"day": 8,
+				"year": 2013
 			},
-			"marks":9.0,
-			"marks-type":"CGPA",
-			"marks-total":10,
-			"program_abrev":"X",
-			"program_fullForm":"Class 10",
-			"course":"CBSE CLASS 10",
-			"affliation":"CBSE",
-			"place":{
-				"dist":"Varanasi",
-				"state":"Uttar Pradesh",
-				"country":"India",
-				"zip-code":""
+			"marks": 9.0,
+			"marks-type": "CGPA",
+			"marks-total": 10,
+			"program_abrev": "X",
+			"program_fullForm": "Class 10",
+			"course": "CBSE CLASS 10",
+			"affliation": "CBSE",
+			"place": {
+				"dist": "Varanasi",
+				"state": "Uttar Pradesh",
+				"country": "India",
+				"zip-code": ""
 			}
-		}	
-	},
-	"professional-exp-yr":1,
-	"professional-exp-mn":5,
-	"internship":{
-		"company-name":"LeadSquared",
-			"startDate":{
-				"month":3,
-				"day":6,
-				"year":2019
-			},
-			"endDate":{
-				"month":5,
-				"day":5,
-				"year":2020
-			},
-			"designation":"Full Stack developer",
-			"projects":[
-				{
-					"project-name":"Enable Super Admins Feature",
-					"desc":"In this project I have worked in all the layers of service oriented architecture. My Contribution in this project is I have created 3 different APIs and UI for the feature",
-
-					"startDate":{
-						"month":3,
-						"day":6,
-						"year":2019
-					},
-					"endDate":{
-						"month":5,
-						"day":5,
-						"year":2020
-					},
-					"learning":"OOPs, MVC. Technology",
-					"tech-used":" c#, JavaScript, JQuery.",
-					"gui": "Telerik, Razor view.",
-					"database": "MySQL Markup and Styling: HTML, CSS, BootStrap.",
-					"challenges":"Understanding the existing code and providing the exact solution(Code analysis), Generating corner test cases. One major Challenge was the creation of retrieval API, the challenge was due my lack of knowledge of code architecture in leadsquared"
-				},
-
-				{
-					"project-name":"Manage Dashboards",
-					"desc":"This Project was all about providing a setting to user for managing all the dashboards present inside a particular account.",
-					"contribution":"My Contributions: For this project, with the use of Telerik UI I have presented data in rows and tables. Also I have worked on Multiselect bootstrap dropdown and modified some of the existing features of the bootstrap multi-select plugin in-order to develop a the required UI for the dropdown.",
-					"startDate":{
-						"month":3,
-						"day":6,
-						"year":2019
-					},
-					"endDate":{
-						"month":5,
-						"day":5,
-						"year":2020
-					},
-					"learning":"OOPs, MVC. Technology",
-					"tech-used":"C#, Jquery, Javascript",
-					"gui":"Telrik",
-					"database": "MySQL.",
-					"challenges":"Needed to Learn about Telerik, Bootstrap multiselect pligin,"
-				},
-
-				{
-					"project-name":"Adhocs",
-					"desc":"These 3 months in LeadSquared has provided an ample amount of leaning. Learing related to product, learning related to team work, learning related markup and styling languages. In this span of time I have solved humongous amount of bugs for existing fearures of leadsuared.",
-					"startDate":{
-						"month":3,
-						"day":6,
-						"year":2019
-					},
-					"endDate":{
-						"month":5,
-						"day":5,
-						"year":2020
-					},
-					"learning":"",
-					"tech-used":"C#, JavaScript, JQuery",
-					"challenges":": In the beginning I have faced to challenges related understanding the root cause of the bugs. I had to spent extra hours for providing the impact less solution for the bugs, Coding standards and Testcase generation."
-				},
-				]
-			},
-
-			"fulltime":
-			{	
-			"company-name":"Binary Stream",
-			"startDate":{
-				"month":3,
-				"day":6,
-				"year":2019
-			},
-			"endDate":{
-				"month":5,
-				"day":5,
-				"year":2020
-			},
-			"designation":"Microsoft dynamics GP developer",
-			"projects":[
-				{
-					"project-name":"",
-					"desc":"",
-					"startDate":{
-						"month":3,
-						"day":6,
-						"year":2019
-					},
-					"endDate":{
-						"month":5,
-						"day":5,
-						"year":2020
-					},
-					"learning":"",
-					"tech-used":"",
-					"challenges":""
-				},
-
-				{
-					"project-name":"",
-					"desc":"",
-					"startDate":{
-						"month":3,
-						"day":6,
-						"year":2019
-					},
-					"endDate":{
-						"month":5,
-						"day":5,
-						"year":2020
-					},
-					"learning":"",
-					"tech-used":"",
-					"challenges":""
-				},
-
-				{
-					"project-name":"",
-					"desc":"",
-					"startDate":{
-						"month":3,
-						"day":6,
-						"year":2019
-					},
-					"endDate":{
-						"month":5,
-						"day":5,
-						"year":2020
-					},
-					"learning":"",
-					"tech-used":"",
-					"challenges":""
-				}
-				]
-			},
-
-			"achievements":
-			[   "Always among top 10% coders in online coding contests organised by Hackerrank and Codechef.", 
-				"Having six star in problem solving module on HackerRank.",
-				"Awarded Bronze medal in week of code 37 organised by Hackerrank. ",
-				"Ranked 800/7000 in coding competition organised by Hackerrank.",
-				"Among top 5% of coders who participated in ProjectEuler , Mathematical coding contest organised by Hackerrank.",
-				"Cracked National and state level Engineering Exams.",
-				"Grabed an internship opportunity in one of the leading startups in Bangaluru",
-				"As an early exposure in IT industry, I have learnt a lot regarding coding standards and team work. Also I have good knowledge over C#, Jquery, Javascript CSS, HTML and MYSQL. Along with knowledge I have also used them practically during the period of my internship. Due to hustle of one year in an industry, I have also enhanced my debugging and coding skills.",
-				"I have cleared the Problem solving certification exam from the Hackerrank."
-			],
-
-		"skills":["ASP.NET", "ASP.NET MVC", "C#","Java","MySQL","Comptetive Coding","JavaScript","Jquery","HTML","CSS","BootStrap","Debugging","JSON","Ajax"],
-		"lang":["Hindi", "English"],
-		"interests":["Coding", "Playing Chess", "Listening to Meaning full Rap Music","Exploring","Debugging","Developing"],
-		"contacts":{
-			"ph_number":"9140300647",
-			"mailid":"chaudharyritesh947@gmail.com",
-			"address":"Teachers Colony, Koramangala Block 1, Bengaluru, Karnataka, India",
-			"github":"https://github.com/chaudharyritesh947",
-			"linkedin":"linkedin.com/in/erriteshkumar",
-			"facebook":"",
-			"instagram":"",
-			"hackerrank":"www.hackerrank.com/sanGoku001"
 		}
+	},
+	"professional-exp-yr": 1,
+	"professional-exp-mn": 5,
+	"internship": {
+		"company-name": "LeadSquared",
+		"startDate": {
+			"month": 3,
+			"day": 6,
+			"year": 2019
+		},
+		"endDate": {
+			"month": 5,
+			"day": 5,
+			"year": 2020
+		},
+		"designation": "Full Stack developer",
+		"projects": [{
+				"project-name": "Enable Super Admins Feature",
+				"desc": "In this project I have worked in all the layers of service oriented architecture. My Contribution in this project is I have created 3 different APIs and UI for the feature",
+
+				"startDate": {
+					"month": 3,
+					"day": 6,
+					"year": 2019
+				},
+				"endDate": {
+					"month": 5,
+					"day": 5,
+					"year": 2020
+				},
+				"learning": "OOPs, MVC. Technology",
+				"tech-used": " c#, JavaScript, JQuery.",
+				"gui": "Telerik, Razor view.",
+				"database": "MySQL Markup and Styling: HTML, CSS, BootStrap.",
+				"challenges": "Understanding the existing code and providing the exact solution(Code analysis), Generating corner test cases. One major Challenge was the creation of retrieval API, the challenge was due my lack of knowledge of code architecture in leadsquared"
+			},
+
+			{
+				"project-name": "Manage Dashboards",
+				"desc": "This Project was all about providing a setting to user for managing all the dashboards present inside a particular account.",
+				"contribution": "My Contributions: For this project, with the use of Telerik UI I have presented data in rows and tables. Also I have worked on Multiselect bootstrap dropdown and modified some of the existing features of the bootstrap multi-select plugin in-order to develop a the required UI for the dropdown.",
+				"startDate": {
+					"month": 3,
+					"day": 6,
+					"year": 2019
+				},
+				"endDate": {
+					"month": 5,
+					"day": 5,
+					"year": 2020
+				},
+				"learning": "OOPs, MVC. Technology",
+				"tech-used": "C#, Jquery, Javascript",
+				"gui": "Telrik",
+				"database": "MySQL.",
+				"challenges": "Needed to Learn about Telerik, Bootstrap multiselect pligin,"
+			},
+
+			{
+				"project-name": "Adhocs",
+				"desc": "These 3 months in LeadSquared has provided an ample amount of leaning. Learing related to product, learning related to team work, learning related markup and styling languages. In this span of time I have solved humongous amount of bugs for existing fearures of leadsuared.",
+				"startDate": {
+					"month": 3,
+					"day": 6,
+					"year": 2019
+				},
+				"endDate": {
+					"month": 5,
+					"day": 5,
+					"year": 2020
+				},
+				"learning": "",
+				"tech-used": "C#, JavaScript, JQuery",
+				"challenges": ": In the beginning I have faced to challenges related understanding the root cause of the bugs. I had to spent extra hours for providing the impact less solution for the bugs, Coding standards and Testcase generation."
+			}
+		]
+	},
+
+	"fulltime": {
+		"company-name": "Binary Stream",
+		"startDate": {
+			"month": 3,
+			"day": 6,
+			"year": 2019
+		},
+		"endDate": {
+			"month": 5,
+			"day": 5,
+			"year": 2020
+		},
+		"designation": "Microsoft dynamics GP developer",
+		"projects": [{
+				"project-name": "",
+				"desc": "",
+				"startDate": {
+					"month": 3,
+					"day": 6,
+					"year": 2019
+				},
+				"endDate": {
+					"month": 5,
+					"day": 5,
+					"year": 2020
+				},
+				"learning": "",
+				"tech-used": "",
+				"challenges": ""
+			},
+
+			{
+				"project-name": "",
+				"desc": "",
+				"startDate": {
+					"month": 3,
+					"day": 6,
+					"year": 2019
+				},
+				"endDate": {
+					"month": 5,
+					"day": 5,
+					"year": 2020
+				},
+				"learning": "",
+				"tech-used": "",
+				"challenges": ""
+			},
+
+			{
+				"project-name": "",
+				"desc": "",
+				"startDate": {
+					"month": 3,
+					"day": 6,
+					"year": 2019
+				},
+				"endDate": {
+					"month": 5,
+					"day": 5,
+					"year": 2020
+				},
+				"learning": "",
+				"tech-used": "",
+				"challenges": ""
+			}
+		]
+	},
+
+	"achievements": ["Always among top 10% coders in online coding contests organised by Hackerrank and Codechef.",
+		"Having six star in problem solving module on HackerRank.",
+		"Awarded Bronze medal in week of code 37 organised by Hackerrank. ",
+		"Ranked 800/7000 in coding competition organised by Hackerrank.",
+		"Among top 5% of coders who participated in ProjectEuler , Mathematical coding contest organised by Hackerrank.",
+		"Cracked National and state level Engineering Exams.",
+		"Grabed an internship opportunity in one of the leading startups in Bangaluru",
+		"As an early exposure in IT industry, I have learnt a lot regarding coding standards and team work. Also I have good knowledge over C#, Jquery, Javascript CSS, HTML and MYSQL. Along with knowledge I have also used them practically during the period of my internship. Due to hustle of one year in an industry, I have also enhanced my debugging and coding skills.",
+		"I have cleared the Problem solving certification exam from the Hackerrank."
+	],
+
+	"skills": ["ASP.NET", "ASP.NET MVC", "C#", "Java", "MySQL", "Comptetive Coding", "JavaScript", "Jquery", "HTML", "CSS", "BootStrap", "Debugging", "JSON", "Ajax"],
+	"lang": ["Hindi", "English"],
+	"interests": ["Coding", "Playing Chess", "Listening to Meaning full Rap Music", "Exploring", "Debugging", "Developing"],
+	"contacts": {
+		"ph_number": "9140300647",
+		"mailid": "chaudharyritesh947@gmail.com",
+		"address": "Teachers Colony, Koramangala Block 1, Bengaluru, Karnataka, India",
+		"github": "https://github.com/chaudharyritesh947",
+		"linkedin": "linkedin.com/in/erriteshkumar",
+		"facebook": "",
+		"instagram": "",
+		"hackerrank": "www.hackerrank.com/sanGoku001"
+	}
 }
