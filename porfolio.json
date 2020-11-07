@@ -241,7 +241,7 @@
 		"I have cleared the Problem solving certification exam from the Hackerrank."
 	],
 
-	"skills": ["ASP.NET", "ASP.NET MVC", "C#", "Java", "MySQL", "Comptetive Coding", "JavaScript", "Jquery", "HTML", "CSS", "BootStrap", "Debugging", "JSON", "Ajax"],
+	"skills": ["JavaScript","Angular10","React","PHP", "Java", "C#","ASP.NET", "ASP.NET MVC", "MySQL", "Comptetive Coding", "Jquery", "HTML", "CSS", "BootStrap", "Debugging", "JSON", "Ajax"],
 	"lang": ["Hindi", "English"],
 	"interests": ["Coding", "Playing Chess", "Listening to Meaning full Rap Music", "Exploring", "Debugging", "Developing"],
 	"contacts": {
